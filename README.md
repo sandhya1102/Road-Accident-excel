@@ -1,5 +1,4 @@
 # Road-Accident-excel
-# Road-Accident-AnalystExcel
 
 This project will analyze traffic accident data caused by several factors. This data analysis will use Excel with the help of pivot tables and will be presented in the form of a dashboard.
 
